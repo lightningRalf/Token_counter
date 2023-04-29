@@ -1,6 +1,3 @@
-Here's a template for a beautiful README.md file with badges from shield.io. You can customize the content and badges to fit your project:
-
-```markdown
 # Token Counter
 
 ![Release status](https://img.shields.io/badge/status-beta-blue?label=Release%20Status&style=plastic)
